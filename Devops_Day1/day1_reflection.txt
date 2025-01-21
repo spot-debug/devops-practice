@@ -1,0 +1,6 @@
+Day 1: Linux Basics
+- Learned navigation commands (pwd, ls, cd).
+- Practiced file management (touch, mkdir, cp, mv, rm).
+- Used file viewing tools (cat, less, head, tail).
+- Edited files using nano.
+
